@@ -1,0 +1,436 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "title": "Biomimétisme & Technologie",
+      "subtitle": "Le vivant comme modèle d'innovation",
+      "background": "img/tree-spring.jpg",
+      "pairs": [
+        {
+          "id": "r1-p1",
+          "bio": {
+            "name": "Le martin-pêcheur",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 30.jpg",
+            "caption": "Bec fuselé du martin-pêcheur"
+          },
+          "archi": {
+            "name": "Le TGV Japonais",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 31.jpg",
+            "caption": "Nez profilé du Shinkansen"
+          },
+          "hint": "Pense à la forme du bec et au passage d'un milieu à l'autre sans bruit.",
+          "explanation": {
+            "title": "Le bec qui inspire le train",
+            "text": "Le TGV Japonais est rapide mais aussi très bruyant. Pour le rendre plus discret sans perdre de vitesse, l'ingénieur Eiji Nakatsu s'est inspiré du martin-pêcheur. Maintenant, l'avant du train a une forme fuselée imitant le bec d'un oiseau."
+          }
+        },
+        {
+          "id": "r1-p2",
+          "bio": {
+            "name": "Le gecko",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 32.jpg",
+            "caption": "Pattes adhésives du gecko"
+          },
+          "archi": {
+            "name": "La Geckskin",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 33.jpg",
+            "caption": "Adhésif puissant et réversible"
+          },
+          "hint": "Un animal qui marche au plafond… et une colle qui tient une télévision.",
+          "explanation": {
+            "title": "L'adhésif du gecko",
+            "text": "Le gecko est un des rares animaux à pouvoir se déplacer au plafond. Des chercheurs se sont inspirés de cet animal pour créer un adhésif assez puissant pour pouvoir soutenir une télévision."
+          }
+        },
+        {
+          "id": "r1-p3",
+          "bio": {
+            "name": "La termitière",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 34.jpg",
+            "caption": "Cheminées de ventilation naturelle"
+          },
+          "archi": {
+            "name": "L'Eastgate Building",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 36gi.jpg",
+            "caption": "Centre commercial à Harare, Zimbabwe"
+          },
+          "hint": "Un bâtiment qui consomme 90 % d'énergie de moins grâce à une régulation passive de température.",
+          "explanation": {
+            "title": "La climatisation des termites",
+            "text": "Ce centre commercial consomme 90 % d'énergie de moins que la moyenne, grâce à une régulation dite \"passive\" de la température intérieure inspirée de la structure des termitières."
+          }
+        },
+        {
+          "id": "r1-p4",
+          "bio": {
+            "name": "La trompe du moustique",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 37.jpg",
+            "caption": "Trompe fine et conique du moustique"
+          },
+          "archi": {
+            "name": "L'aiguille médicale indolore",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 35.jpg",
+            "caption": "Aiguille conique ultra-fine"
+          },
+          "hint": "Une piqûre désagréable mais indolore… dont la forme inspire la médecine moderne.",
+          "explanation": {
+            "title": "La piqûre sans douleur",
+            "text": "Les piqûres sont souvent douloureuses. C'est pourquoi, une société japonaise s'est inspirée de la piqûre du moustique, indolore bien que désagréable, et a inventé une nouvelle aiguille conique et plus fine."
+          }
+        },
+        {
+          "id": "r1-p5",
+          "bio": {
+            "name": "Les fruits de bardane",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 38.jpg",
+            "caption": "Crochets végétaux accrocheurs"
+          },
+          "archi": {
+            "name": "Le Velcro",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 40.jpg",
+            "caption": "Système scratch velours/crochets"
+          },
+          "hint": "Une fixation sans colle, inspirée d'une plante qui s'accroche aux poils des animaux.",
+          "explanation": {
+            "title": "L'invention du velcro",
+            "text": "En imitant les fruits de bardane qui s'accrochent aux poils d'animaux, un ingénieur suisse a inventé le velcro avec une partie \"velours\" et une partie \"crochets\"."
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "title": "Mouvement & Énergie",
+      "subtitle": "La nature optimise chaque déplacement",
+      "background": "img/tree-summer.jpg",
+      "pairs": [
+        {
+          "id": "r2-p1",
+          "bio": {
+            "name": "Le nautile",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 39.jpg",
+            "caption": "Coquille spiralée du nautile"
+          },
+          "archi": {
+            "name": "Les turboréacteurs",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 41.jpg",
+            "caption": "Moteur à réaction spiralé"
+          },
+          "hint": "Une coquille en spirale qui propulse silencieusement… comme un réacteur.",
+          "explanation": {
+            "title": "La propulsion spiralée",
+            "text": "De nombreux engins à moteur utilisent ce mode de propulsion. Cette force motrice est utilisée dans la nature par le nautile, dont la coquille en forme de spirale lui permet de se déplacer silencieusement."
+          }
+        },
+        {
+          "id": "r2-p2",
+          "bio": {
+            "name": "Les nageoires de baleines à bosse",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 42.jpg",
+            "caption": "Bord d'attaque en tubercules"
+          },
+          "archi": {
+            "name": "Les éoliennes",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 43.jpg",
+            "caption": "Pale à bord d'attaque ondulé"
+          },
+          "hint": "Un bord d'attaque bosselé qui glisse mieux dans le fluide qu'un bord lisse.",
+          "explanation": {
+            "title": "Les tubercules de la baleine",
+            "text": "Au Canada, une société commercialise de nouvelles éoliennes permettant de réaliser des économies d'énergie importantes, en reproduisant les cannelures se trouvant sur les nageoires des baleines à bosse."
+          }
+        },
+        {
+          "id": "r2-p3",
+          "bio": {
+            "name": "Les lucioles",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 44.jpg",
+            "caption": "Abdomen lumineux à écailles dentées"
+          },
+          "archi": {
+            "name": "Les lampes LED",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 45.jpg",
+            "caption": "LED à rendement lumineux optimisé"
+          },
+          "hint": "L'abdomen couvert d'écailles en dents de scie qui aide l'insecte à briller plus fort.",
+          "explanation": {
+            "title": "La lumière des lucioles",
+            "text": "Des chercheurs ont découvert qu'en modifiant des LED en s'inspirant de l'abdomen des lucioles, ils pouvaient augmenter leur luminosité. L'abdomen de la luciole, couvert d'écailles en dents de scie, aide l'insecte à briller plus fort."
+          }
+        },
+        {
+          "id": "r2-p4",
+          "bio": {
+            "name": "Le papillon Greta oto",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 74.jpg",
+            "caption": "Ailes transparentes anti-reflet"
+          },
+          "archi": {
+            "name": "Les verres anti-reflet",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 60.jpg",
+            "caption": "Matériau transparent non réfléchissant"
+          },
+          "hint": "Des ailes transparentes qui ne réfléchissent pas la lumière — un secret pour les optiques.",
+          "explanation": {
+            "title": "La transparence parfaite",
+            "text": "Des chercheurs allemands travaillent un matériau transparent ne reflétant pas la lumière. Leurs études s'inspirent des ailes du papillon Greta oto qui possède cette particularité."
+          }
+        },
+        {
+          "id": "r2-p5",
+          "bio": {
+            "name": "La peau du requin",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 59.jpg",
+            "caption": "Denticules microscopiques alignés"
+          },
+          "archi": {
+            "name": "Les combinaisons de natation",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 61.jpg",
+            "caption": "Surface ultra-rapide calquée sur le requin"
+          },
+          "hint": "Une surface qui paraît lisse mais ne l'est pas — et qui glisse mieux pour cette raison.",
+          "explanation": {
+            "title": "La peau qui fend l'eau",
+            "text": "Une société propose des combinaisons de natation ultra-rapides dont la surface est calquée sur la peau des requins. Cela permet de faciliter la glisse et la pénétration dans l'eau."
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "title": "Matériaux & Construction",
+      "subtitle": "Quand la matière vivante inspire le bâtiment",
+      "background": "img/tree-autumn.jpg",
+      "pairs": [
+        {
+          "id": "r3-p1",
+          "bio": {
+            "name": "L'aile du papillon morpho",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 62.jpg",
+            "caption": "Écailles thermorégulatrices en chitine"
+          },
+          "archi": {
+            "name": "Les panneaux solaires",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 63.jpg",
+            "caption": "Photovoltaïque à régulation thermique"
+          },
+          "hint": "Des écailles qui régulent la température selon la chaleur ambiante — comme un panneau qui ne surchauffe pas.",
+          "explanation": {
+            "title": "L'aile thermorégulatrice",
+            "text": "Les ailes des papillons intéressent les chercheurs pour la conception de panneaux solaires photovoltaïques plus rentables, qui évitent le problème trop commun de la surchauffe. Le rendement des panneaux diminuant quand leur température augmente, on a tout intérêt à les maintenir à bonne température — comme le fait la chitine du morpho."
+          }
+        },
+        {
+          "id": "r3-p2",
+          "bio": {
+            "name": "La cicatrisation de la peau",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 64.jpg",
+            "caption": "Auto-réparation des tissus cutanés"
+          },
+          "archi": {
+            "name": "Le béton autocicatrisant",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 65.jpg",
+            "caption": "Béton à bactéries encapsulées"
+          },
+          "hint": "Quand une fissure apparaît, un mécanisme interne se réveille pour colmater la brèche.",
+          "explanation": {
+            "title": "Le béton qui se répare",
+            "text": "La cicatrisation de la peau inspire l'autocicatrisation des bétons : quand il y a une fissure, des bactéries encapsulées dans le béton se réveillent au contact de l'eau, se nourrissent des nutriments présents et produisent du carbonate de calcium qui colmate la fissure."
+          }
+        },
+        {
+          "id": "r3-p3",
+          "bio": {
+            "name": "Le coléoptère de Namibie",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 66.jpg",
+            "caption": "Dos hydrophile pour collecter le brouillard"
+          },
+          "archi": {
+            "name": "Les filets capteurs de rosée",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 67.jpg",
+            "caption": "Filets à surface hydrophile/hydrofuge"
+          },
+          "hint": "Collecter l'eau du brouillard dans un désert grâce à une surface à double texture.",
+          "explanation": {
+            "title": "Boire le brouillard",
+            "text": "Le scarabée Stenocara collecte l'eau du brouillard dans le désert de Namibie grâce à son dos alternant surfaces hydrophiles et hydrofuges. Les gouttes s'accrochent aux bosses, grossissent, puis glissent vers sa bouche. Ce principe inspire des filets capteurs de rosée pour alimenter en eau des régions arides."
+          }
+        },
+        {
+          "id": "r3-p4",
+          "bio": {
+            "name": "Le corail",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 68.jpg",
+            "caption": "Polypes sécrétant du carbonate de calcium"
+          },
+          "archi": {
+            "name": "Le ciment neutre en carbone",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 69.jpg",
+            "caption": "Liant minéral qui séquestre le CO₂"
+          },
+          "hint": "Un organisme vivant qui construit sa structure dure en captant le CO₂ de l'eau.",
+          "explanation": {
+            "title": "Le ciment du corail",
+            "text": "Les polypes de corail absorbent les minéraux et le CO₂, puis sécrètent du carbonate de calcium pour former leur structure dure. Sur cette base, de nouvelles méthodes de production de ciment neutre en carbone ont été créées, capturant le CO₂ pour produire des matériaux durables."
+          }
+        },
+        {
+          "id": "r3-p5",
+          "bio": {
+            "name": "La corbeille de Vénus",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 70.jpg",
+            "caption": "Éponge à squelette de fibres de verre"
+          },
+          "archi": {
+            "name": "Le 30 St Mary Axe",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 71.jpg",
+            "caption": "The Gherkin, Londres"
+          },
+          "hint": "Un gratte-ciel londonien dont la structure spiralée rappelle le squelette de cette éponge marine.",
+          "explanation": {
+            "title": "L'éponge qui inspire un gratte-ciel",
+            "text": "La corbeille de Vénus est une éponge constituée d'un treillis de fibres de verre disposées verticalement, horizontalement et en diagonale, lui conférant une grande solidité. La tour 30 St Mary Axe à Londres — surnommée The Gherkin — est conçue avec la même morphologie spiralée."
+          }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "title": "Surfaces & Comportements adaptatifs",
+      "subtitle": "Quand le vivant se défend et s'adapte",
+      "background": "img/tree-winter.jpg",
+      "pairs": [
+        {
+          "id": "r4-p1",
+          "bio": {
+            "name": "L'effet lotus",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 72.jpg",
+            "caption": "Bosses microscopiques superhydrophobes"
+          },
+          "archi": {
+            "name": "La surface hydrophobe",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 73.jpg",
+            "caption": "Peinture nanostructurée autonettoyante"
+          },
+          "hint": "Une surface sur laquelle l'eau ne se pose jamais — et emporte la poussière en partant.",
+          "explanation": {
+            "title": "L'effet lotus",
+            "text": "La surface de la feuille de lotus contient des bosses microscopiques qui empêchent les molécules d'eau d'adhérer. L'eau roule instantanément et ramasse toute saleté en cours de route. Ce principe est appliqué dans le bâtiment : peintures pour façades, produits pour vitrages et tuiles autonettoyants."
+          }
+        },
+        {
+          "id": "r4-p2",
+          "bio": {
+            "name": "Le manchot",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 87.jpg",
+            "caption": "Regroupement thermique sur la banquise"
+          },
+          "archi": {
+            "name": "Le District 11",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 89.jpg",
+            "caption": "Centre d'innovation Skolkovo, Russie"
+          },
+          "hint": "Des villas regroupées en tortue pour économiser 5°C — comme des manchots serrés dans le froid.",
+          "explanation": {
+            "title": "L'architecture manchot",
+            "text": "Pour ce projet, l'agence A. Bechu & Associés s'est inspirée des manchots qui se rassemblent en cercle sur la banquise pour se tenir mutuellement chaud. Une centaine de villas regroupées dix par dix dans une clairière permettent d'économiser 5°C de température."
+          }
+        },
+        {
+          "id": "r4-p3",
+          "bio": {
+            "name": "La moule",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 88.jpg",
+            "caption": "Fixation tenace sur rochers et métaux"
+          },
+          "archi": {
+            "name": "La colle forte",
+            "label": "Technologie",
+            "image": "img/Cartes/Frame 90.jpg",
+            "caption": "Adhésif bio-inspiré pour métaux"
+          },
+          "hint": "Un mollusque qui adhère aux rochers et même aux métaux — une colle incroyable.",
+          "explanation": {
+            "title": "La colle des moules",
+            "text": "Les moules peuvent se fixer aux métaux et cette faculté inspire des chercheurs. Une \"colle\" bio-inspirée a été développée, capable de lier des protéines sur des surfaces métalliques, avec une demande de brevet déposée par l'Institut Charles Sadron."
+          }
+        },
+        {
+          "id": "r4-p4",
+          "bio": {
+            "name": "Le zèbre",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 109.jpg",
+            "caption": "Rayures noires et blanches thermorégulatrices"
+          },
+          "archi": {
+            "name": "Le camouflage",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 110.jpg",
+            "caption": "Enveloppe à motif contrasté"
+          },
+          "hint": "Un motif contrasté qui trompe l'œil et régule la température — sur un animal comme sur un bâtiment.",
+          "explanation": {
+            "title": "Le zèbre et le bâtiment",
+            "text": "Les rayures du zèbre créent un effet d'optique qui trompe les prédateurs, et pourraient aussi créer un flux d'air différentiel entre les bandes noires et blanches ayant un effet de refroidissement. Ces principes s'appliquent à l'enveloppe du bâtiment : camouflage dans l'environnement ou thermorégulation de façade."
+          }
+        },
+        {
+          "id": "r4-p5",
+          "bio": {
+            "name": "L'os humain",
+            "label": "Biologie",
+            "image": "img/Cartes/Frame 91.jpg",
+            "caption": "Structure trabéculaire légère et résistante"
+          },
+          "archi": {
+            "name": "La Tour Eiffel",
+            "label": "Architecture",
+            "image": "img/Cartes/Frame 93.jpg",
+            "caption": "Structure métallique légère et solide"
+          },
+          "hint": "La matière là où la résistance est demandée, et nulle part ailleurs — c'est le secret de la légèreté.",
+          "explanation": {
+            "title": "L'os qui inspire la Tour Eiffel",
+            "text": "Nos os n'ont de la matière que là où la résistance est demandée : ils sont très légers et non homogènes en densité. L'os humain a ainsi inspiré la Tour Eiffel. Si celle-ci est arrivée à la troisième place du concours de 1886, c'est avant tout parce qu'elle était plus légère que le cylindre d'air qui la contient."
+          }
+        }
+      ]
+    }
+  ]
+}
